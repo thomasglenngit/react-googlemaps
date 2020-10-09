@@ -1,3 +1,26 @@
+<h1 align='center'><img width='900' height='450' src='https://s.hdnux.com/photos/70/76/55/14936925/3/920x920.jpg'><br>
+
+
+**<h1 align = 'center'>react-googlemaps**
+
+
+*<h2 align ='center'>My first exercise to incorporate a Google Maps API into a React application*
+
+
+<h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a></h3>
+
+
+<h3 align='center'>by Thomas Glenn</h3>
+
+# **REQUIREMENTS**
+
+# **SETUP**
+
+# **TECHNOLOGIES USED**
+
+_[Node.js](https://nodejs.org/en/)_
+
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -31,38 +54,31 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# **INSTALL**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## **INSTALLING WITH NODE**
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+with the root project folder open in your code editor, execute the following in your terminal:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+``cd ProjectName``
 
-### Code Splitting
+``npm install``
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+``npm run build``
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+# **❤️Contributors**
 
-### Making a Progressive Web App
+[<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/thomas-glenn.jpeg' width='160px;'/><br /><sub><b>Thomas Glenn</b></sub>](https://www.linkedin.com/in/glennergy/)<br />
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+<br>
 
-### Advanced Configuration
+<br>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+![alt text][logo]
 
-### Deployment
+[logo]: https://img.shields.io/bower/l/bootstrap 'MIT License'
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
